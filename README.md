@@ -1,5 +1,9 @@
 # Atividade de ED 
 
-Atvd 1 desenvolvida por David <br>
-Atvd 2 desenvolvida por Anne <br>
-Atvd 3 desenvolvida por Davi 
+Atvd desenvolvida pelo grupo: 
+ # David William Menezes de Lima
+ 
+ # Anne Letícia Xavier de Oliveira
+ # Davi Cordeiro Andrade
+
+
