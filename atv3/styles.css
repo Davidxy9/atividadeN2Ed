@@ -1,0 +1,138 @@
+* {
+    font-family: 'Bowlby One', cursive;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(227, 231, 56, 1) 7%, rgba(25, 192, 208, 1) 28%, rgba(114, 25, 208, 1) 51%, rgba(208, 144, 25, 1) 93%);
+}
+
+header {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title, section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Bagel Fat One', cursive;
+    font-size: 120px;
+    font-weight: 100;
+}
+
+h1 {
+    font-family: 'Rock 3D', cursive;
+    text-transform: uppercase;
+    font-size: 120px;
+    font-weight: 600;
+}
+
+.descricao {
+    flex-direction: column;
+}
+
+p {
+    font-size: 35px;
+    text-align: center;
+    margin: 50px;
+}
+
+.days {
+    color: rgb(228, 235, 241);
+    font-size: 60px;
+}
+
+.lineUp {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    background-color: rgb(162, 109, 184);
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    border-radius: 10px;
+    width: 80%;
+    height: 100%;
+    margin-top: 60px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stage {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.title-lineup {
+    font-size: 40px;
+    color: rgb(228, 235, 241);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50px 15px;
+    object-fit: cover;
+    margin: 0px 30px;
+}
+
+img:hover {
+    transform: scaleX(-1);
+}
+
+.texto {
+    color: rgb(228, 235, 241);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ingressos {
+    gap: 100px;
+}
+
+.ingressos .texto {
+    color: black;
+}
+
+.container {
+    background-color: rgb(238, 216, 20);
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    border-radius: 10px;
+    width: 20%;
+    height: 600px;
+    margin: 100px 0;
+    color: black;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.local {
+    display: flex;
+    flex-direction: column;
+}
+
+.local h1 {
+    font-family: 'Bowlby One', cursive;
+    font-weight: 500;
+    font-size: 70px;
+}
