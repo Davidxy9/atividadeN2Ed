@@ -1,12 +1,14 @@
-# Atividade de ED 
+# Atividade de ED
 
-# Atvd desenvolvida pelo grupo: David William Menezes de Lima, Anne Letícia Xavier de Oliveira, Davi Cordeiro Andrade
+ 
+Atvd desenvolvida pelo grupo: David William Menezes de Lima, Anne Letícia Xavier de Oliveira, Davi Cordeiro Andrade
 
-# Repositório no Github: https://github.com/Davidxy9/atividadeN2Ed
+
+# Repositório no Github: 
+<a href="https://github.com/Davidxy9/atividadeN2Ed" target="_blank">Link repositório</a>
+
+ 
 
 Atividade 1:
 Atividade 2:
 Atividade 3:
-
-
-
